@@ -127,7 +127,8 @@ Beware, only the brave should venture forth:
 
 🎨 Paint
 
-And that's all for now! Hopefully, you have found a couple of ideas that you want to attempt.
+
+
 
 🔥 How to Get Started
 
