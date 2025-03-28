@@ -130,7 +130,7 @@ Beware, only the brave should venture forth:
 
 
 
-🔥 How to Get Started
+#🔥 How to Get Started
 
 Pick a project from the list above.
 
