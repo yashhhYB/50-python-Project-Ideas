@@ -127,7 +127,12 @@ Beware, only the brave should venture forth:
 
 🎨 Paint
 
-
+## New Projects 
+1.Mad Libs Generator: A simple game where players fill in the blanks of a story with random words.
+2.Number Guessing Game: A game where the computer generates a random number, and the user has to guess it.
+3.Countdown Timer: A timer that counts down from a specified time to zero.
+4.Password Generator: A tool that generates random passwords of different lengths and complexities.
+5.Contact Book: An application to store and manage contact information
 
 
 #🔥 How to Get Started
