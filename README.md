@@ -158,6 +158,6 @@ Share your project with others and get feedback.
 ✅ Strengthen your Python skills
 ✅ Gain real-world coding experience
 ✅ Build a strong portfolio
-✅ Have fun while learning! 🎉
+✅ Have fun while learning! 
 
 If you complete any of these projects, let us know! We'd love to see your work. Happy coding! 🚀
