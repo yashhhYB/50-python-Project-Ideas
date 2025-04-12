@@ -129,6 +129,8 @@ Beware, only the brave should venture forth:
 
 ## New Projects 
 
+
+
 1.Mad Libs Generator: A simple game where players fill in the blanks of a story with random words.
 
 
@@ -142,6 +144,7 @@ Beware, only the brave should venture forth:
 
 
 5.Contact Book: An application to store and manage contact information
+
 
 
 ## How to Get Started
