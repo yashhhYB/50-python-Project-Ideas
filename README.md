@@ -146,6 +146,98 @@ Beware, only the brave should venture forth:
 5.Contact Book: An application to store and manage contact information
 
 
+## New Top Projects 
+1. 🤖 AI-Powered Personal Assistant (Jarvis-Style)
+
+An intelligent personal assistant capable of performing tasks like reading your emails, telling the weather, fetching info from the web, setting reminders, answering questions, launching applications, and more — all via voice commands.
+
+Features:
+
+Voice command input with speech recognition
+
+Text-to-speech responses
+
+Web scraping for real-time data
+
+Email reading and auto-responses
+
+Integration with APIs like OpenWeather, Gmail, and Google Calendar
+
+Tech Stack: Python, SpeechRecognition, pyttsx3, BeautifulSoup, Google APIs
+
+Source Code: AI-Personal-Assistant
+
+2. 🔐 Cybersecurity Threat Detection System
+
+A real-time cybersecurity tool to detect malicious activities on a network, track anomalies, and generate automated alerts based on suspicious traffic or patterns using Machine Learning.
+
+Features:
+
+Packet sniffing and network traffic analysis
+
+Anomaly detection using ML (Random Forest, Isolation Forest)
+
+Email and SMS alert system
+
+Real-time dashboard with threat classification
+
+Tech Stack: Python, Scikit-learn, Pandas, Scapy, Flask, Twilio API
+
+Source Code: Threat-Detection-System
+
+3. 🧠 AI-based Medical Diagnosis System
+
+An advanced healthcare tool that uses deep learning to detect diseases like pneumonia, diabetes, or cancer from datasets and medical images.
+
+Features:
+
+Deep learning-based image classification (CNN)
+
+Predictive analytics from patient data
+
+PDF report generation
+
+Doctor/admin panel for managing patient records
+
+Tech Stack: Python, TensorFlow/Keras, OpenCV, Flask/Django, MongoDB/PostgreSQL
+
+Source Code: AI-Medical-Diagnosis
+
+4. 🛰️ Satellite Image Segmentation for Disaster Management
+
+A geo-intelligent Python system that uses semantic segmentation on satellite images to detect floods, fires, or deforestation areas in near real-time.
+
+Features:
+
+Image segmentation using U-Net or Mask R-CNN
+
+Real-time disaster detection and area marking
+
+Integration with GIS platforms
+
+Alert system for authorities
+
+Tech Stack: Python, PyTorch, Rasterio, GDAL, OpenCV, GeoJSON, Flask
+
+Source Code: Satellite-Disaster-Segmentation
+
+5. 🕵️‍♀️ Blockchain-Based Voting System
+
+A secure and transparent online voting platform leveraging blockchain to store votes in tamper-proof distributed ledgers.
+
+Features:
+
+Voter registration with biometric/OTP verification
+
+Vote casting with digital signature
+
+Transparent result calculation
+
+Blockchain ledger for auditability
+
+Tech Stack: Python, Flask, Web3.py, Solidity (for Smart Contracts), Ganache, MetaMask
+
+Source Code: Blockchain-Voting-System
 
 ## How to Get Started
 
